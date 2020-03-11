@@ -37,7 +37,7 @@
   "deprecated": false,
   "description": "AngularJS directives for Chart.js",
   "devDependencies": {
-    "angular": "~1.5.8",
+    "angular": "~1.7.9",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-banner": "^0.1.3",
