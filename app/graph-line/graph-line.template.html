@@ -1,0 +1,17 @@
+<div class="long-graph" ng-controller="graphLineController">
+  <div class="graph-head">
+    <span class="graph-title">Top 5 Items by Some Measure</span>
+    <span class="graph-description">(compared to some reference line)</span>
+  </div>
+  <div class='canvas-wrap line-wrap'>
+    <canvas tc-chartjs-line chart-type="line" id="line" class="chart chart-line" chart-data="data" chart-labels="labels" chart-options="options"></canvas>
+  </div>
+</div>
+
+<!-- <canvas
+  tc-chartjs-pie
+  chart-data="myData"
+  chart-options="myOptions"
+  chart-plugins="myPlugins"
+  chart-click="onChartClick(event)"
+></canvas> -->
