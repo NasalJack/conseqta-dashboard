@@ -9,7 +9,7 @@
     "angular": "1.7.x",
     "angular-chart.js": "^1.1.1",
     "bootstrap": "3.3.x",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "ng2-charts": "^2.3.0",
     "tc-angular-chartjs": "^2.1.4"
   },
